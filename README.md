@@ -1,2 +1,2 @@
-# spidey.hexapod
-A six-legged robot built with ❤️
+# spidey
+A six-legged robot built with passion and ❤️
